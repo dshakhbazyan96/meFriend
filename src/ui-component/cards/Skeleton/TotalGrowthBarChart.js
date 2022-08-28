@@ -13,7 +13,7 @@ const TotalGrowthBarChart = () => (
             <Grid container spacing={gridSpacing}>
                 <Grid item xs={12}>
                     <Grid container alignItems="center" justifyContent="space-between" spacing={gridSpacing}>
-                        <Grid item xs zeroMinWidth>
+                        <Grid item xs zeroMinWidth>ggggggggggggggggggggg
                             <Grid container spacing={1}>
                                 <Grid item xs={12}>
                                     <Skeleton variant="text" />
