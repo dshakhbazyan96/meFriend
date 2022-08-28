@@ -1,0 +1,9 @@
+// action - customization reducer
+export const SET_MENU = '@customization/SET_MENU';
+export const MENU_TOGGLE = '@customization/MENU_TOGGLE';
+export const MENU_OPEN = '@customization/MENU_OPEN';
+export const SET_FONT_FAMILY = '@customization/SET_FONT_FAMILY';
+export const SET_BORDER_RADIUS = '@customization/SET_BORDER_RADIUS';
+export const GET_LOGIN_POPUP = '@customization/GET_LOGIN_POPUP';
+export const GET_REGISTER_POPUP = '@customization/GET_REGISTER_POPUP';
+export const GET_LOG_OUT = '@customization/GET_LOG_OUT';
